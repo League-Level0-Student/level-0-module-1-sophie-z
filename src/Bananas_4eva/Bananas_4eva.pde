@@ -1,0 +1,8 @@
+void setup(){
+}
+void draw(){
+  String x = "banana";   
+  for(int i = 0; i<1000; i++){
+   print("banana");
+ }
+ }
